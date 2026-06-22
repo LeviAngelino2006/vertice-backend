@@ -1,0 +1,294 @@
+[
+  {
+    "id": "rem-001",
+    "nombre": "Remera Esencial Algodón Pesado",
+    "categoria": "Remeras",
+    "precio": 28000,
+    "precioAnterior": null,
+    "colores": ["Negro", "Off-white", "Gris"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Jersey de algodón 240g con caída estructurada. Cuello reforzado y costuras dobles. La base de todo guardarropa.",
+    "destacado": true,
+    "nuevo": true
+  },
+  {
+    "id": "rem-002",
+    "nombre": "Remera Oversize Boxy",
+    "categoria": "Remeras",
+    "precio": 32000,
+    "precioAnterior": 39000,
+    "colores": ["Off-white", "Negro"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Silueta amplia de hombros caídos. Algodón orgánico con tacto seco. Pensada para llevar suelta.",
+    "destacado": false,
+    "nuevo": true
+  },
+  {
+    "id": "rem-003",
+    "nombre": "Remera Manga Larga Térmica",
+    "categoria": "Remeras",
+    "precio": 36000,
+    "precioAnterior": null,
+    "colores": ["Negro", "Gris", "Azul"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1622445275576-721325763afe?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Punto acanalado de media estación. Ajuste cómodo, puños elastizados. Capa base ideal.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 2
+  },
+  {
+    "id": "rem-004",
+    "nombre": "Remera Henley Premium",
+    "categoria": "Remeras",
+    "precio": 34000,
+    "precioAnterior": null,
+    "colores": ["Off-white", "Gris"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Cuello con botonadura corta y tejido suave al tacto. Detalle clásico, ejecución contemporánea.",
+    "destacado": false,
+    "nuevo": false
+  },
+  {
+    "id": "buz-001",
+    "nombre": "Buzo Hoodie Heavyweight",
+    "categoria": "Buzos",
+    "precio": 62000,
+    "precioAnterior": null,
+    "colores": ["Negro", "Gris", "Off-white"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Frisa peinada de 400g con interior afelpado. Capucha doble y bolsillo canguro. Abrigo sin volumen.",
+    "destacado": true,
+    "nuevo": true
+  },
+  {
+    "id": "buz-002",
+    "nombre": "Buzo Crewneck Clásico",
+    "categoria": "Buzos",
+    "precio": 54000,
+    "precioAnterior": 64000,
+    "colores": ["Gris", "Negro"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1614495039153-2f6b8a08a3b7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Cuello redondo atemporal en frisa suave. Puños y cintura acanalados. Un esencial que no falla.",
+    "destacado": true,
+    "nuevo": false
+  },
+  {
+    "id": "buz-003",
+    "nombre": "Buzo Media Cremallera",
+    "categoria": "Buzos",
+    "precio": 58000,
+    "precioAnterior": null,
+    "colores": ["Off-white", "Azul"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Cierre corto con cuello alto. Tejido french terry transpirable. Versátil para entrenar o salir.",
+    "destacado": false,
+    "nuevo": true
+  },
+  {
+    "id": "cam-001",
+    "nombre": "Campera Bomber Técnica",
+    "categoria": "Camperas",
+    "precio": 98000,
+    "precioAnterior": null,
+    "colores": ["Negro"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Nylon ripstop con interior acolchado liviano. Puños elastizados y cierre impermeable. Urbana y funcional.",
+    "destacado": true,
+    "nuevo": true,
+    "stock": 1
+  },
+  {
+    "id": "cam-002",
+    "nombre": "Campera Denim Trucker",
+    "categoria": "Camperas",
+    "precio": 89000,
+    "precioAnterior": 110000,
+    "colores": ["Azul", "Negro"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Denim rígido de 12oz con lavado seco. Corte recto, botones metálicos. Envejece con carácter.",
+    "destacado": false,
+    "nuevo": false
+  },
+  {
+    "id": "cam-003",
+    "nombre": "Parka Larga Impermeable",
+    "categoria": "Camperas",
+    "precio": 135000,
+    "precioAnterior": null,
+    "colores": ["Negro", "Gris"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1544022613-e87ca75a784a?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Membrana técnica con costuras selladas. Capucha ajustable y bolsillos amplios. Protección de invierno.",
+    "destacado": true,
+    "nuevo": true
+  },
+  {
+    "id": "pan-001",
+    "nombre": "Pantalón Cargo Relajado",
+    "categoria": "Pantalones",
+    "precio": 64000,
+    "precioAnterior": null,
+    "colores": ["Negro", "Gris"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Gabardina de algodón con bolsillos laterales. Tobillo con cordón ajustable. Utilitario y cómodo.",
+    "destacado": true,
+    "nuevo": true
+  },
+  {
+    "id": "pan-002",
+    "nombre": "Jogger Frisa Tapered",
+    "categoria": "Pantalones",
+    "precio": 48000,
+    "precioAnterior": 56000,
+    "colores": ["Gris", "Negro", "Off-white"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1606913419164-d3f1e6b0e6c5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Calce tapered con cintura elastizada. Frisa suave de peso medio. Comodidad para todo el día.",
+    "destacado": false,
+    "nuevo": false
+  },
+  {
+    "id": "pan-003",
+    "nombre": "Pantalón Chino Recto",
+    "categoria": "Pantalones",
+    "precio": 58000,
+    "precioAnterior": null,
+    "colores": ["Off-white", "Gris", "Negro"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Twill de algodón con elastano. Corte recto pulcro que pasa del día a la noche sin esfuerzo.",
+    "destacado": false,
+    "nuevo": true
+  },
+  {
+    "id": "pan-004",
+    "nombre": "Jean Slim Stretch",
+    "categoria": "Pantalones",
+    "precio": 66000,
+    "precioAnterior": null,
+    "colores": ["Azul", "Negro"],
+    "talles": ["S", "M", "L", "XL"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Denim elastizado de tacto suave. Calce slim sin apretar. Lavado parejo y duradero.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 2
+  },
+  {
+    "id": "acc-001",
+    "nombre": "Gorra Estructurada Logo",
+    "categoria": "Accesorios",
+    "precio": 22000,
+    "precioAnterior": null,
+    "colores": ["Negro", "Off-white"],
+    "talles": ["Único"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Gorra de 6 paneles en sarga rígida. Visera curva y cierre metálico regulable. Bordado al frente.",
+    "destacado": true,
+    "nuevo": true
+  },
+  {
+    "id": "acc-002",
+    "nombre": "Beanie Tejido Fino",
+    "categoria": "Accesorios",
+    "precio": 18000,
+    "precioAnterior": 24000,
+    "colores": ["Negro", "Gris", "Azul"],
+    "talles": ["Único"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1510598155802-7ba8c0e5ec3c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Gorro de punto fino con doblez. Lana acrílica suave que no pica. Abriga sin abultar.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 3
+  },
+  {
+    "id": "acc-003",
+    "nombre": "Medias Pack x3",
+    "categoria": "Accesorios",
+    "precio": 14000,
+    "precioAnterior": null,
+    "colores": ["Negro", "Off-white", "Gris"],
+    "talles": ["Único"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Set de tres pares en algodón peinado. Puño elástico que no marca. El detalle que se nota.",
+    "destacado": false,
+    "nuevo": true
+  },
+  {
+    "id": "acc-004",
+    "nombre": "Riñonera Crossbody",
+    "categoria": "Accesorios",
+    "precio": 38000,
+    "precioAnterior": null,
+    "colores": ["Negro"],
+    "talles": ["Único"],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "descripcion": "Nylon resistente con cierres impermeables. Correa ajustable para llevar cruzada. Lo justo y necesario.",
+    "destacado": true,
+    "nuevo": true
+  }
+]
