@@ -26,6 +26,9 @@ cp .env.example .env
 | `DATABASE_URL` | Connection string de PostgreSQL |
 | `PORT` | Puerto del servidor (default: 4000) |
 | `FRONTEND_URL` | Origen permitido por CORS |
+| `JWT_SECRET` | String random de al menos 32 bytes (`node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"`) |
+| `JWT_EXPIRES_IN` | Expiración del token (ej. `7d`) |
+| `GOOGLE_CLIENT_ID` | Client ID de Google Cloud Console (opcional hasta la Fase 2 frontend) |
 
 **3. Crear la base de datos y correr migraciones**
 ```bash
@@ -47,16 +50,53 @@ El servidor queda disponible en `http://localhost:4000`.
 
 ## Endpoints
 
+### Salud
+
 | Método | Ruta | Descripción |
 |---|---|---|
 | GET | `/api/health` | Healthcheck |
+
+### Productos
+
+| Método | Ruta | Descripción |
+|---|---|---|
 | GET | `/api/products` | Lista todos los productos |
 | GET | `/api/products/:id` | Un producto por id |
 
-### Query params opcionales para `/api/products`
+Query params opcionales para `/api/products`: `?categoria=Remeras`, `?destacado=true`, `?nuevo=true` (combinables).
 
-- `?categoria=Remeras` — filtra por categoría
-- `?destacado=true` — solo productos destacados
-- `?nuevo=true` — solo productos nuevos
+### Auth
 
-Se pueden combinar: `?categoria=Buzos&destacado=true`
+| Método | Ruta | Auth | Descripción |
+|---|---|---|---|
+| POST | `/api/auth/register` | — | Registrar usuario con email y contraseña |
+| POST | `/api/auth/login` | — | Login con email y contraseña |
+| POST | `/api/auth/google` | — | Login/registro con Google ID token |
+| GET | `/api/auth/me` | Bearer token | Datos del usuario logueado |
+
+## Ejemplos de uso (curl)
+
+**Registrar usuario**
+```bash
+curl -X POST http://localhost:4000/api/auth/register \
+  -H "Content-Type: application/json" \
+  -d '{"email":"yo@ejemplo.com","password":"mipassword123","nombre":"Mi Nombre"}'
+```
+
+**Login**
+```bash
+curl -X POST http://localhost:4000/api/auth/login \
+  -H "Content-Type: application/json" \
+  -d '{"email":"yo@ejemplo.com","password":"mipassword123"}'
+```
+
+**Datos del usuario (reemplazá `<TOKEN>` con el token recibido)**
+```bash
+curl http://localhost:4000/api/auth/me \
+  -H "Authorization: Bearer <TOKEN>"
+```
+
+**Filtrar productos**
+```bash
+curl "http://localhost:4000/api/products?categoria=Remeras&destacado=true"
+```

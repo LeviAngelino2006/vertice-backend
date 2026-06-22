@@ -6,6 +6,7 @@ const helmet = require('helmet');
 const errorHandler = require('./middlewares/errorHandler');
 const productsRouter = require('./routes/products.routes');
 const healthRouter = require('./routes/health.routes');
+const authRouter = require('./routes/auth.routes');
 
 const PORT = process.env.PORT || 4000;
 const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:5173';
@@ -18,6 +19,7 @@ app.use(express.json());
 
 app.use('/api/products', productsRouter);
 app.use('/api/health', healthRouter);
+app.use('/api/auth', authRouter);
 
 app.use(errorHandler);
 
