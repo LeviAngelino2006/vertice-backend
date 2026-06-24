@@ -21,6 +21,43 @@ model User {
   role         Role     @default(CLIENTE)
   createdAt    DateTime @default(now())
   updatedAt    DateTime @updatedAt
+  orders       Order[]
+}
+
+enum EstadoOrden {
+  PAGADA
+  CANCELADA
+}
+
+model Order {
+  id            String      @id @default(uuid())
+  numeroOrden   String      @unique
+  userId        String?
+  user          User?       @relation(fields: [userId], references: [id])
+  emailInvitado String?
+  nombreEnvio   String
+  direccion     String
+  ciudad        String
+  codigoPostal  String
+  provincia     String
+  telefono      String
+  subtotal      Decimal
+  total         Decimal
+  estado        EstadoOrden @default(PAGADA)
+  items         OrderItem[]
+  createdAt     DateTime    @default(now())
+}
+
+model OrderItem {
+  id             String  @id @default(uuid())
+  orderId        String
+  order          Order   @relation(fields: [orderId], references: [id])
+  productId      String
+  nombreProducto String
+  talle          String
+  color          String
+  cantidad       Int
+  precioUnitario Decimal
 }
 
 model Product {
