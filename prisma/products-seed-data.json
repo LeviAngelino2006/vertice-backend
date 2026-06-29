@@ -1,294 +1,858 @@
 [
   {
     "id": "rem-001",
-    "nombre": "Remera Esencial Algodón Pesado",
+    "nombre": "Remera Base",
     "categoria": "Remeras",
-    "precio": 28000,
+    "precio": 28900,
     "precioAnterior": null,
-    "colores": ["Negro", "Off-white", "Gris"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=900&q=80"
+    "colores": [
+      "Negro",
+      "Crudo",
+      "Gris piedra"
     ],
-    "descripcion": "Jersey de algodón 240g con caída estructurada. Cuello reforzado y costuras dobles. La base de todo guardarropa.",
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "/img/products/rem-001-1.png",
+      "/img/products/rem-001-1.png"
+    ],
+    "descripcion": "Jersey de algodón peinado 200g con caída recta y cuello redondo reforzado. Costuras laterales que sostienen la forma lavado tras lavado.",
     "destacado": true,
-    "nuevo": true
+    "nuevo": false,
+    "stock": 10
   },
   {
     "id": "rem-002",
-    "nombre": "Remera Oversize Boxy",
+    "nombre": "Remera Oversize",
     "categoria": "Remeras",
-    "precio": 32000,
-    "precioAnterior": 39000,
-    "colores": ["Off-white", "Negro"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80"
+    "precio": 33900,
+    "precioAnterior": null,
+    "colores": [
+      "Crudo",
+      "Negro",
+      "Azul noche"
     ],
-    "descripcion": "Silueta amplia de hombros caídos. Algodón orgánico con tacto seco. Pensada para llevar suelta.",
-    "destacado": false,
-    "nuevo": true
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "/img/products/rem-002-1.png",
+      "/img/products/rem-002-1.png"
+    ],
+    "descripcion": "Algodón 240g de corte holgado con hombros caídos. Tela densa que cae estructurada sin pegarse al cuerpo.",
+    "destacado": true,
+    "nuevo": true,
+    "stock": 10
   },
   {
     "id": "rem-003",
-    "nombre": "Remera Manga Larga Térmica",
+    "nombre": "Remera Manga Larga",
     "categoria": "Remeras",
-    "precio": 36000,
+    "precio": 32900,
     "precioAnterior": null,
-    "colores": ["Negro", "Gris", "Azul"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1622445275576-721325763afe?auto=format&fit=crop&w=900&q=80"
+    "colores": [
+      "Negro",
+      "Gris piedra"
     ],
-    "descripcion": "Punto acanalado de media estación. Ajuste cómodo, puños elastizados. Capa base ideal.",
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "/img/products/rem-003-1.png",
+      "/img/products/rem-003-1.png"
+    ],
+    "descripcion": "Algodón 220g con puño acanalado y largo justo para entrecasa. Cuello redondo limpio, sin etiquetas que molesten.",
     "destacado": false,
     "nuevo": false,
-    "stock": 2
+    "stock": 10
   },
   {
     "id": "rem-004",
-    "nombre": "Remera Henley Premium",
+    "nombre": "Remera Boxy",
     "categoria": "Remeras",
-    "precio": 34000,
+    "precio": 31900,
     "precioAnterior": null,
-    "colores": ["Off-white", "Gris"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=900&q=80"
+    "colores": [
+      "Crudo",
+      "Terracota",
+      "Negro"
     ],
-    "descripcion": "Cuello con botonadura corta y tejido suave al tacto. Detalle clásico, ejecución contemporánea.",
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "/img/products/rem-004-1.png",
+      "/img/products/rem-004-1.png"
+    ],
+    "descripcion": "Corte a la caja, ancho de hombro y cuerpo corto sobre algodón 230g. Cae recta y queda parada sin marcar el torso.",
     "destacado": false,
-    "nuevo": false
+    "nuevo": false,
+    "stock": 10
   },
   {
-    "id": "buz-001",
-    "nombre": "Buzo Hoodie Heavyweight",
-    "categoria": "Buzos",
-    "precio": 62000,
+    "id": "rem-005",
+    "nombre": "Remera Piqué",
+    "categoria": "Remeras",
+    "precio": 34900,
     "precioAnterior": null,
-    "colores": ["Negro", "Gris", "Off-white"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d?auto=format&fit=crop&w=900&q=80"
+    "colores": [
+      "Azul noche",
+      "Crudo",
+      "Negro"
     ],
-    "descripcion": "Frisa peinada de 400g con interior afelpado. Capucha doble y bolsillo canguro. Abrigo sin volumen.",
-    "destacado": true,
-    "nuevo": true
-  },
-  {
-    "id": "buz-002",
-    "nombre": "Buzo Crewneck Clásico",
-    "categoria": "Buzos",
-    "precio": 54000,
-    "precioAnterior": 64000,
-    "colores": ["Gris", "Negro"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1614495039153-2f6b8a08a3b7?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?auto=format&fit=crop&w=900&q=80"
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
     ],
-    "descripcion": "Cuello redondo atemporal en frisa suave. Puños y cintura acanalados. Un esencial que no falla.",
-    "destacado": true,
-    "nuevo": false
-  },
-  {
-    "id": "buz-003",
-    "nombre": "Buzo Media Cremallera",
-    "categoria": "Buzos",
-    "precio": 58000,
-    "precioAnterior": null,
-    "colores": ["Off-white", "Azul"],
-    "talles": ["S", "M", "L", "XL"],
     "imagenes": [
-      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?auto=format&fit=crop&w=900&q=80"
+      "/img/products/rem-005-1.png",
+      "/img/products/rem-005-1.png"
     ],
-    "descripcion": "Cierre corto con cuello alto. Tejido french terry transpirable. Versátil para entrenar o salir.",
+    "descripcion": "Tejido piqué de algodón con textura al tacto y más cuerpo que un jersey liso. Cuello redondo reforzado para que no pierda forma.",
     "destacado": false,
-    "nuevo": true
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "rem-006",
+    "nombre": "Remera Rayada",
+    "categoria": "Remeras",
+    "precio": 30900,
+    "precioAnterior": 36900,
+    "colores": [
+      "Crudo",
+      "Azul noche"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-studio-rem-006-1/800/1000",
+      "https://picsum.photos/seed/manto-studio-rem-006-2/800/1000"
+    ],
+    "descripcion": "Rayas tejidas en hilado, no estampadas, sobre algodón 210g. El clásico marinero en una paleta sobria que combina con todo.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "rem-007",
+    "nombre": "Remera Henley",
+    "categoria": "Remeras",
+    "precio": 35900,
+    "precioAnterior": null,
+    "colores": [
+      "Gris piedra",
+      "Negro",
+      "Terracota"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-studio-rem-007-1/800/1000",
+      "https://picsum.photos/seed/manto-studio-rem-007-2/800/1000"
+    ],
+    "descripcion": "Escote con tres botones de tagua sobre algodón 230g de mano suave. Un punto medio entre la remera y algo más vestido.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "rem-008",
+    "nombre": "Remera Técnica",
+    "categoria": "Remeras",
+    "precio": 35900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Gris piedra"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-studio-rem-008-1/800/1000",
+      "https://picsum.photos/seed/manto-studio-rem-008-2/800/1000"
+    ],
+    "descripcion": "Microfibra liviana que seca rápido y no retiene olor, con costuras planas que no rozan. Para entrenar o para el día que no para.",
+    "destacado": false,
+    "nuevo": true,
+    "stock": 10
   },
   {
     "id": "cam-001",
-    "nombre": "Campera Bomber Técnica",
+    "nombre": "Campera Rompevientos",
     "categoria": "Camperas",
-    "precio": 98000,
+    "precio": 92900,
     "precioAnterior": null,
-    "colores": ["Negro"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0?auto=format&fit=crop&w=900&q=80"
+    "colores": [
+      "Negro",
+      "Azul noche"
     ],
-    "descripcion": "Nylon ripstop con interior acolchado liviano. Puños elastizados y cierre impermeable. Urbana y funcional.",
-    "destacado": true,
-    "nuevo": true,
-    "stock": 1
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-cam-001-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-cam-001-2/800/1000"
+    ],
+    "descripcion": "Nylon liviano con repelencia al agua y costuras selladas. Capucha ajustable y puños elastizados para cortar el viento sin sumar volumen.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
   },
   {
     "id": "cam-002",
-    "nombre": "Campera Denim Trucker",
+    "nombre": "Campera Bomber",
     "categoria": "Camperas",
-    "precio": 89000,
-    "precioAnterior": 110000,
-    "colores": ["Azul", "Negro"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=900&q=80"
+    "precio": 98900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Crudo"
     ],
-    "descripcion": "Denim rígido de 12oz con lavado seco. Corte recto, botones metálicos. Envejece con carácter.",
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-cam-002-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-cam-002-2/800/1000"
+    ],
+    "descripcion": "Cuerpo de nylon mate con interior acolchado liviano. Puños y cintura de rib elastizado, cierre metálico de dos vías.",
     "destacado": false,
-    "nuevo": false
+    "nuevo": true,
+    "stock": 10
   },
   {
     "id": "cam-003",
-    "nombre": "Parka Larga Impermeable",
+    "nombre": "Campera Parka",
     "categoria": "Camperas",
-    "precio": 135000,
+    "precio": 129900,
     "precioAnterior": null,
-    "colores": ["Negro", "Gris"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1544022613-e87ca75a784a?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=900&q=80"
+    "colores": [
+      "Terracota",
+      "Negro"
     ],
-    "descripcion": "Membrana técnica con costuras selladas. Capucha ajustable y bolsillos amplios. Protección de invierno.",
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-cam-003-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-cam-003-2/800/1000"
+    ],
+    "descripcion": "Gabardina de algodón encerada con capucha desmontable. Forro térmico y cuatro bolsillos con tapa para el frío real.",
     "destacado": true,
-    "nuevo": true
+    "nuevo": false,
+    "stock": 10
   },
   {
-    "id": "pan-001",
-    "nombre": "Pantalón Cargo Relajado",
-    "categoria": "Pantalones",
-    "precio": 64000,
+    "id": "cam-004",
+    "nombre": "Campera Puffer",
+    "categoria": "Camperas",
+    "precio": 134900,
     "precioAnterior": null,
-    "colores": ["Negro", "Gris"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=80"
+    "colores": [
+      "Negro",
+      "Crudo",
+      "Azul noche"
     ],
-    "descripcion": "Gabardina de algodón con bolsillos laterales. Tobillo con cordón ajustable. Utilitario y cómodo.",
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-cam-004-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-cam-004-2/800/1000"
+    ],
+    "descripcion": "Relleno sintético térmico en cámaras horizontales y exterior repelente. Liviana de llevar, abrigada de verdad.",
     "destacado": true,
-    "nuevo": true
+    "nuevo": true,
+    "stock": 10
   },
   {
-    "id": "pan-002",
-    "nombre": "Jogger Frisa Tapered",
-    "categoria": "Pantalones",
-    "precio": 48000,
-    "precioAnterior": 56000,
-    "colores": ["Gris", "Negro", "Off-white"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1606913419164-d3f1e6b0e6c5?auto=format&fit=crop&w=900&q=80"
+    "id": "cam-005",
+    "nombre": "Campera de Jean",
+    "categoria": "Camperas",
+    "precio": 89900,
+    "precioAnterior": 109900,
+    "colores": [
+      "Azul noche",
+      "Negro"
     ],
-    "descripcion": "Calce tapered con cintura elastizada. Frisa suave de peso medio. Comodidad para todo el día.",
-    "destacado": false,
-    "nuevo": false
-  },
-  {
-    "id": "pan-003",
-    "nombre": "Pantalón Chino Recto",
-    "categoria": "Pantalones",
-    "precio": 58000,
-    "precioAnterior": null,
-    "colores": ["Off-white", "Gris", "Negro"],
-    "talles": ["S", "M", "L", "XL"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=80"
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
     ],
-    "descripcion": "Twill de algodón con elastano. Corte recto pulcro que pasa del día a la noche sin esfuerzo.",
-    "destacado": false,
-    "nuevo": true
-  },
-  {
-    "id": "pan-004",
-    "nombre": "Jean Slim Stretch",
-    "categoria": "Pantalones",
-    "precio": 66000,
-    "precioAnterior": null,
-    "colores": ["Azul", "Negro"],
-    "talles": ["S", "M", "L", "XL"],
     "imagenes": [
-      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=900&q=80"
+      "https://picsum.photos/seed/manto-urban-cam-005-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-cam-005-2/800/1000"
     ],
-    "descripcion": "Denim elastizado de tacto suave. Calce slim sin apretar. Lavado parejo y duradero.",
+    "descripcion": "Denim rígido de 13oz que se amolda con el uso. Corte recto, botones metálicos y doble bolsillo de pecho.",
     "destacado": false,
     "nuevo": false,
     "stock": 2
   },
   {
-    "id": "acc-001",
-    "nombre": "Gorra Estructurada Logo",
-    "categoria": "Accesorios",
-    "precio": 22000,
+    "id": "cam-006",
+    "nombre": "Campera Softshell",
+    "categoria": "Camperas",
+    "precio": 115900,
     "precioAnterior": null,
-    "colores": ["Negro", "Off-white"],
-    "talles": ["Único"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=900&q=80"
+    "colores": [
+      "Negro",
+      "Gris piedra"
     ],
-    "descripcion": "Gorra de 6 paneles en sarga rígida. Visera curva y cierre metálico regulable. Bordado al frente.",
-    "destacado": true,
-    "nuevo": true
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-cam-006-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-cam-006-2/800/1000"
+    ],
+    "descripcion": "Tejido softshell con membrana cortaviento y cara interior afelpada. Ajuste atlético que acompaña el movimiento.",
+    "destacado": false,
+    "nuevo": true,
+    "stock": 10
   },
   {
-    "id": "acc-002",
-    "nombre": "Beanie Tejido Fino",
-    "categoria": "Accesorios",
-    "precio": 18000,
-    "precioAnterior": 24000,
-    "colores": ["Negro", "Gris", "Azul"],
-    "talles": ["Único"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1510598155802-7ba8c0e5ec3c?auto=format&fit=crop&w=900&q=80"
+    "id": "cam-007",
+    "nombre": "Sobrecamisa",
+    "categoria": "Camperas",
+    "precio": 94900,
+    "precioAnterior": null,
+    "colores": [
+      "Terracota",
+      "Crudo",
+      "Negro"
     ],
-    "descripcion": "Gorro de punto fino con doblez. Lana acrílica suave que no pica. Abriga sin abultar.",
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-cam-007-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-cam-007-2/800/1000"
+    ],
+    "descripcion": "Sarga de algodón pesada, a medio camino entre camisa y campera. Bolsillos de parche y caída estructurada para usar abierta o cerrada.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "cam-008",
+    "nombre": "Campera Trucker Acolchada",
+    "categoria": "Camperas",
+    "precio": 112900,
+    "precioAnterior": 129900,
+    "colores": [
+      "Crudo",
+      "Negro"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-cam-008-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-cam-008-2/800/1000"
+    ],
+    "descripcion": "Exterior de gabardina con interior acolchado tipo corderito. Abriga sin perder el corte corto y ajustado al cuerpo.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "buz-001",
+    "nombre": "Buzo Cuello Redondo",
+    "categoria": "Buzos",
+    "precio": 56900,
+    "precioAnterior": null,
+    "colores": [
+      "Gris piedra",
+      "Negro",
+      "Crudo"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-outdoor-buz-001-1/800/1000",
+      "https://picsum.photos/seed/manto-outdoor-buz-001-2/800/1000"
+    ],
+    "descripcion": "Frisa de algodón 320g con interior perchado suave. Cuello, puños y cintura de rib que recuperan la forma.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "buz-002",
+    "nombre": "Buzo con Capucha",
+    "categoria": "Buzos",
+    "precio": 59900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Crudo",
+      "Azul noche"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-outdoor-buz-002-1/800/1000",
+      "https://picsum.photos/seed/manto-outdoor-buz-002-2/800/1000"
+    ],
+    "descripcion": "Frisa pesada 340g con capucha forrada y bolsillo canguro. Cordón plano y herrajes metálicos, sin estampas.",
+    "destacado": true,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "buz-003",
+    "nombre": "Buzo Medio Cierre",
+    "categoria": "Buzos",
+    "precio": 57900,
+    "precioAnterior": 64900,
+    "colores": [
+      "Azul noche",
+      "Gris piedra"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-outdoor-buz-003-1/800/1000",
+      "https://picsum.photos/seed/manto-outdoor-buz-003-2/800/1000"
+    ],
+    "descripcion": "Frisa liviana 280g con medio cierre y cuello alto. Corte limpio para usar solo o como capa intermedia.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 1
+  },
+  {
+    "id": "buz-004",
+    "nombre": "Buzo Oversize",
+    "categoria": "Buzos",
+    "precio": 60900,
+    "precioAnterior": null,
+    "colores": [
+      "Crudo",
+      "Negro",
+      "Terracota"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-outdoor-buz-004-1/800/1000",
+      "https://picsum.photos/seed/manto-outdoor-buz-004-2/800/1000"
+    ],
+    "descripcion": "Frisa 340g de corte holgado con hombros caídos. Cae estructurado y mantiene el volumen sin deformarse.",
+    "destacado": false,
+    "nuevo": true,
+    "stock": 10
+  },
+  {
+    "id": "buz-005",
+    "nombre": "Buzo Cuello Polo",
+    "categoria": "Buzos",
+    "precio": 58900,
+    "precioAnterior": null,
+    "colores": [
+      "Gris piedra",
+      "Crudo"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-outdoor-buz-005-1/800/1000",
+      "https://picsum.photos/seed/manto-outdoor-buz-005-2/800/1000"
+    ],
+    "descripcion": "Frisa media con cuello tipo polo y dos botones. Un punto medio entre el buzo y la prenda de vestir.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "buz-006",
+    "nombre": "Buzo Cierre Completo",
+    "categoria": "Buzos",
+    "precio": 61900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Azul noche"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-outdoor-buz-006-1/800/1000",
+      "https://picsum.photos/seed/manto-outdoor-buz-006-2/800/1000"
+    ],
+    "descripcion": "Frisa 320g con cierre entero y bolsillos laterales. Capucha estructurada para abrir y cerrar según el día.",
+    "destacado": false,
+    "nuevo": true,
+    "stock": 10
+  },
+  {
+    "id": "buz-007",
+    "nombre": "Buzo Liviano",
+    "categoria": "Buzos",
+    "precio": 54900,
+    "precioAnterior": null,
+    "colores": [
+      "Crudo",
+      "Gris piedra",
+      "Negro"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-outdoor-buz-007-1/800/1000",
+      "https://picsum.photos/seed/manto-outdoor-buz-007-2/800/1000"
+    ],
+    "descripcion": "Frisa francesa 240g sin perchar, fresca para entretiempo. Caída suave y cuello redondo limpio.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "buz-008",
+    "nombre": "Buzo Capucha Térmico",
+    "categoria": "Buzos",
+    "precio": 62900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Terracota"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-outdoor-buz-008-1/800/1000",
+      "https://picsum.photos/seed/manto-outdoor-buz-008-2/800/1000"
+    ],
+    "descripcion": "Frisa 360g bien perchada por dentro para el frío de verdad. Capucha doble y puños anchos que sellan el calor.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "pan-001",
+    "nombre": "Pantalón Jogger",
+    "categoria": "Pantalones",
+    "precio": 49900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Gris piedra",
+      "Crudo"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-pan-001-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-pan-001-2/800/1000"
+    ],
+    "descripcion": "Frisa de algodón con puño elastizado y cintura con cordón. Corte afinado hacia el tobillo, bolsillos laterales profundos.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "pan-002",
+    "nombre": "Pantalón Cargo",
+    "categoria": "Pantalones",
+    "precio": 58900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Terracota",
+      "Crudo"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-pan-002-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-pan-002-2/800/1000"
+    ],
+    "descripcion": "Gabardina de algodón con bolsillos de fuelle y tobillo regulable. Aguanta el uso diario sin volverse rígida.",
+    "destacado": true,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "pan-003",
+    "nombre": "Pantalón Chino",
+    "categoria": "Pantalones",
+    "precio": 54900,
+    "precioAnterior": null,
+    "colores": [
+      "Crudo",
+      "Negro",
+      "Azul noche"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-pan-003-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-pan-003-2/800/1000"
+    ],
+    "descripcion": "Sarga de algodón con elastano y caída recta. Cintura con elástico interno oculto para moverte cómodo todo el día.",
+    "destacado": false,
+    "nuevo": true,
+    "stock": 10
+  },
+  {
+    "id": "pan-004",
+    "nombre": "Pantalón Wide",
+    "categoria": "Pantalones",
+    "precio": 56900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Crudo"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-pan-004-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-pan-004-2/800/1000"
+    ],
+    "descripcion": "Gabardina liviana de corte ancho y caída fluida. Cae desde la cadera sin marcar, con pierna recta y amplia.",
     "destacado": false,
     "nuevo": false,
     "stock": 3
   },
   {
-    "id": "acc-003",
-    "nombre": "Medias Pack x3",
-    "categoria": "Accesorios",
-    "precio": 14000,
-    "precioAnterior": null,
-    "colores": ["Negro", "Off-white", "Gris"],
-    "talles": ["Único"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=80"
+    "id": "pan-005",
+    "nombre": "Jean Recto",
+    "categoria": "Pantalones",
+    "precio": 59900,
+    "precioAnterior": 72900,
+    "colores": [
+      "Azul noche",
+      "Negro"
     ],
-    "descripcion": "Set de tres pares en algodón peinado. Puño elástico que no marca. El detalle que se nota.",
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-pan-005-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-pan-005-2/800/1000"
+    ],
+    "descripcion": "Denim de 12oz con algo de elastano y lavado parejo. Corte recto clásico, cinco bolsillos y costuras reforzadas.",
     "destacado": false,
-    "nuevo": true
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "pan-006",
+    "nombre": "Pantalón Track",
+    "categoria": "Pantalones",
+    "precio": 52900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Gris piedra"
+    ],
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-urban-pan-006-1/800/1000",
+      "https://picsum.photos/seed/manto-urban-pan-006-2/800/1000"
+    ],
+    "descripcion": "Tejido técnico liviano con banda lateral y puño elastizado. Seca rápido y acompaña el movimiento sin pesar.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "acc-001",
+    "nombre": "Gorra",
+    "categoria": "Accesorios",
+    "precio": 18900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Crudo",
+      "Terracota"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-studio-acc-001-1/800/1000",
+      "https://picsum.photos/seed/manto-studio-acc-001-2/800/1000"
+    ],
+    "descripcion": "Gabardina de algodón de seis paneles con visera curva. Cierre metálico regulable y bordado tono sobre tono.",
+    "destacado": true,
+    "nuevo": false,
+    "stock": 10
+  },
+  {
+    "id": "acc-002",
+    "nombre": "Gorro Tejido",
+    "categoria": "Accesorios",
+    "precio": 14900,
+    "precioAnterior": 18900,
+    "colores": [
+      "Negro",
+      "Gris piedra",
+      "Crudo"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-studio-acc-002-1/800/1000",
+      "https://picsum.photos/seed/manto-studio-acc-002-2/800/1000"
+    ],
+    "descripcion": "Lana mezcla de punto fino con doblez ajustado. Abriga sin picar y mantiene la forma.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 2
+  },
+  {
+    "id": "acc-003",
+    "nombre": "Mochila",
+    "categoria": "Accesorios",
+    "precio": 36900,
+    "precioAnterior": null,
+    "colores": [
+      "Negro",
+      "Azul noche",
+      "Gris piedra"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-studio-acc-003-1/800/1000",
+      "https://picsum.photos/seed/manto-studio-acc-003-2/800/1000"
+    ],
+    "descripcion": "Cordura resistente al agua con compartimento acolchado para notebook. Cierres reforzados y espalda ventilada para el uso diario.",
+    "destacado": false,
+    "nuevo": true,
+    "stock": 10
   },
   {
     "id": "acc-004",
-    "nombre": "Riñonera Crossbody",
+    "nombre": "Medias (pack x3)",
     "categoria": "Accesorios",
-    "precio": 38000,
+    "precio": 16900,
     "precioAnterior": null,
-    "colores": ["Negro"],
-    "talles": ["Único"],
-    "imagenes": [
-      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=900&q=80"
+    "colores": [
+      "Negro",
+      "Crudo",
+      "Gris piedra"
     ],
-    "descripcion": "Nylon resistente con cierres impermeables. Correa ajustable para llevar cruzada. Lo justo y necesario.",
-    "destacado": true,
-    "nuevo": true
+    "talles": [
+      "Único"
+    ],
+    "imagenes": [
+      "https://picsum.photos/seed/manto-studio-acc-004-1/800/1000",
+      "https://picsum.photos/seed/manto-studio-acc-004-2/800/1000"
+    ],
+    "descripcion": "Tres pares de algodón con refuerzo en talón y puntera. Caña media y elástico que no afloja con el uso.",
+    "destacado": false,
+    "nuevo": false,
+    "stock": 10
   }
 ]
