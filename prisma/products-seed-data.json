@@ -145,8 +145,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-studio-rem-006-1/800/1000",
-      "https://picsum.photos/seed/manto-studio-rem-006-2/800/1000"
+      "/img/products/rem-006-1.png",
+      "/img/products/rem-006-1.png"
     ],
     "descripcion": "Rayas tejidas en hilado, no estampadas, sobre algodón 210g. El clásico marinero en una paleta sobria que combina con todo.",
     "destacado": false,
@@ -171,8 +171,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-studio-rem-007-1/800/1000",
-      "https://picsum.photos/seed/manto-studio-rem-007-2/800/1000"
+      "/img/products/rem-007-1.png",
+      "/img/products/rem-007-1.png"
     ],
     "descripcion": "Escote con tres botones de tagua sobre algodón 230g de mano suave. Un punto medio entre la remera y algo más vestido.",
     "destacado": false,
@@ -196,8 +196,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-studio-rem-008-1/800/1000",
-      "https://picsum.photos/seed/manto-studio-rem-008-2/800/1000"
+      "/img/products/rem-008-1.png",
+      "/img/products/rem-008-1.png"
     ],
     "descripcion": "Microfibra liviana que seca rápido y no retiene olor, con costuras planas que no rozan. Para entrenar o para el día que no para.",
     "destacado": false,
@@ -221,8 +221,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-urban-cam-001-1/800/1000",
-      "https://picsum.photos/seed/manto-urban-cam-001-2/800/1000"
+      "/img/products/cam-001-1.png",
+      "/img/products/cam-001-1.png"
     ],
     "descripcion": "Nylon liviano con repelencia al agua y costuras selladas. Capucha ajustable y puños elastizados para cortar el viento sin sumar volumen.",
     "destacado": false,
@@ -246,8 +246,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-urban-cam-002-1/800/1000",
-      "https://picsum.photos/seed/manto-urban-cam-002-2/800/1000"
+      "/img/products/cam-002-1.png",
+      "/img/products/cam-002-1.png"
     ],
     "descripcion": "Cuerpo de nylon mate con interior acolchado liviano. Puños y cintura de rib elastizado, cierre metálico de dos vías.",
     "destacado": false,
@@ -271,8 +271,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-urban-cam-003-1/800/1000",
-      "https://picsum.photos/seed/manto-urban-cam-003-2/800/1000"
+      "/img/products/cam-003-1.png",
+      "/img/products/cam-003-1.png"
     ],
     "descripcion": "Gabardina de algodón encerada con capucha desmontable. Forro térmico y cuatro bolsillos con tapa para el frío real.",
     "destacado": true,
@@ -297,8 +297,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-urban-cam-004-1/800/1000",
-      "https://picsum.photos/seed/manto-urban-cam-004-2/800/1000"
+      "/img/products/cam-004-1.png",
+      "/img/products/cam-004-1.png"
     ],
     "descripcion": "Relleno sintético térmico en cámaras horizontales y exterior repelente. Liviana de llevar, abrigada de verdad.",
     "destacado": true,
@@ -322,8 +322,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-urban-cam-005-1/800/1000",
-      "https://picsum.photos/seed/manto-urban-cam-005-2/800/1000"
+      "/img/products/cam-005-1.png",
+      "/img/products/cam-005-1.png"
     ],
     "descripcion": "Denim rígido de 13oz que se amolda con el uso. Corte recto, botones metálicos y doble bolsillo de pecho.",
     "destacado": false,
@@ -347,8 +347,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-urban-cam-006-1/800/1000",
-      "https://picsum.photos/seed/manto-urban-cam-006-2/800/1000"
+      "/img/products/cam-006-1.png",
+      "/img/products/cam-006-1.png"
     ],
     "descripcion": "Tejido softshell con membrana cortaviento y cara interior afelpada. Ajuste atlético que acompaña el movimiento.",
     "destacado": false,
@@ -373,8 +373,8 @@
       "XL"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-urban-cam-007-1/800/1000",
-      "https://picsum.photos/seed/manto-urban-cam-007-2/800/1000"
+      "/img/products/cam-007-1.png",
+      "/img/products/cam-007-1.png"
     ],
     "descripcion": "Sarga de algodón pesada, a medio camino entre camisa y campera. Bolsillos de parche y caída estructurada para usar abierta o cerrada.",
     "destacado": false,
@@ -778,8 +778,8 @@
       "Único"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-studio-acc-001-1/800/1000",
-      "https://picsum.photos/seed/manto-studio-acc-001-2/800/1000"
+      "/img/products/acc-001-1.png",
+      "/img/products/acc-001-1.png"
     ],
     "descripcion": "Gabardina de algodón de seis paneles con visera curva. Cierre metálico regulable y bordado tono sobre tono.",
     "destacado": true,
@@ -801,8 +801,8 @@
       "Único"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-studio-acc-002-1/800/1000",
-      "https://picsum.photos/seed/manto-studio-acc-002-2/800/1000"
+      "/img/products/acc-002-1.png",
+      "/img/products/acc-002-1.png"
     ],
     "descripcion": "Lana mezcla de punto fino con doblez ajustado. Abriga sin picar y mantiene la forma.",
     "destacado": false,
@@ -824,8 +824,8 @@
       "Único"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-studio-acc-003-1/800/1000",
-      "https://picsum.photos/seed/manto-studio-acc-003-2/800/1000"
+      "/img/products/acc-003-1.png",
+      "/img/products/acc-003-1.png"
     ],
     "descripcion": "Cordura resistente al agua con compartimento acolchado para notebook. Cierres reforzados y espalda ventilada para el uso diario.",
     "destacado": false,
@@ -847,8 +847,8 @@
       "Único"
     ],
     "imagenes": [
-      "https://picsum.photos/seed/manto-studio-acc-004-1/800/1000",
-      "https://picsum.photos/seed/manto-studio-acc-004-2/800/1000"
+      "/img/products/acc-004-1.png",
+      "/img/products/acc-004-1.png"
     ],
     "descripcion": "Tres pares de algodón con refuerzo en talón y puntera. Caña media y elástico que no afloja con el uso.",
     "destacado": false,
