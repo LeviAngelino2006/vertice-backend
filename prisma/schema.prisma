@@ -14,15 +14,16 @@ enum Role {
 }
 
 model User {
-  id           String   @id @default(uuid())
-  email        String   @unique
+  id           String     @id @default(uuid())
+  email        String     @unique
   passwordHash String?
-  googleId     String?  @unique
+  googleId     String?    @unique
   nombre       String
-  role         Role     @default(CLIENTE)
-  createdAt    DateTime @default(now())
-  updatedAt    DateTime @updatedAt
+  role         Role       @default(CLIENTE)
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
   orders       Order[]
+  cartItems    CartItem[]
 }
 
 enum EstadoOrden {
@@ -62,6 +63,20 @@ model OrderItem {
   color          String
   cantidad       Int
   precioUnitario Decimal
+}
+
+model CartItem {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  productId String
+  talle     String
+  color     String
+  cantidad  Int
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([userId, productId, talle, color])
 }
 
 model Product {

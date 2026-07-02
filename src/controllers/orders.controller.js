@@ -156,6 +156,10 @@ async function createOrder(req, res, next) {
         });
       }
 
+      if (authUser) {
+        await tx.cartItem.deleteMany({ where: { userId: authUser.id } });
+      }
+
       return newOrder;
     });
 
